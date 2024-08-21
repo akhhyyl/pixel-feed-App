@@ -78,3 +78,6 @@ We may update this Privacy Policy from time to time. If we make significant chan
 
 If you have any questions about this Privacy Policy or our practices, please contact us at:
 pixelfeedapp@gmail.com
+
+![pixel feed](https://github.com/user-attachments/assets/552c4926-3223-4721-8d74-16547a49ba18)
+
